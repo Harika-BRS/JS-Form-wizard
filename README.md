@@ -1,3 +1,3 @@
 # Form wizard
 
-# you can live [here](http://203.193.173.125/buildriseshine/javascript/rocket/).
+# you can live [here]( https://harika-brs.github.io/JS-Form-wizard/).
